@@ -1,0 +1,51 @@
+U:\BIS425\ReadSearchInsert\My first\bin\Debug\My first.exe.config
+U:\BIS425\ReadSearchInsert\My first\bin\Debug\My first.exe
+U:\BIS425\ReadSearchInsert\My first\bin\Debug\My first.pdb
+U:\BIS425\ReadSearchInsert\My first\bin\Debug\My first.xml
+U:\BIS425\ReadSearchInsert\My first\obj\Debug\ReadSearchInsert.vbprojResolveAssemblyReference.cache
+U:\BIS425\ReadSearchInsert\My first\obj\Debug\My_first.CustomerForm.resources
+U:\BIS425\ReadSearchInsert\My first\obj\Debug\My_first.Resources.resources
+U:\BIS425\ReadSearchInsert\My first\obj\Debug\ReadSearchInsert.vbproj.GenerateResource.Cache
+U:\BIS425\ReadSearchInsert\My first\obj\Debug\ReadSearchInsert.vbproj.CoreCompileInputs.cache
+U:\BIS425\ReadSearchInsert\My first\obj\Debug\My first.exe
+U:\BIS425\ReadSearchInsert\My first\obj\Debug\My first.xml
+U:\BIS425\ReadSearchInsert\My first\obj\Debug\My first.pdb
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbprojResolveAssemblyReference.cache
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.Resources.resources
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbproj.GenerateResource.Cache
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbproj.CoreCompileInputs.cache
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\bin\Debug\ReadSearchInsert.exe.config
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\bin\Debug\ReadSearchInsert.exe
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\bin\Debug\ReadSearchInsert.pdb
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\bin\Debug\ReadSearchInsert.xml
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.exe
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.xml
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.pdb
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.NewCustomerForm.resources
+U:\BIS425\ReadSearchInsert\ReadSearchInsert\obj\Debug\ReadSearchInsert.FilmForm.resources
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\bin\Debug\ReadSearchInsert.exe.config
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\bin\Debug\ReadSearchInsert.exe
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\bin\Debug\ReadSearchInsert.pdb
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\bin\Debug\ReadSearchInsert.xml
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbprojResolveAssemblyReference.cache
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.FilmForm.resources
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.Resources.resources
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.NewCustomerForm.resources
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbproj.GenerateResource.Cache
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbproj.CoreCompileInputs.cache
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.exe
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.xml
+U:\BIS425\ReadSearchInsertValidation\ReadSearchInsert\obj\Debug\ReadSearchInsert.pdb
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\bin\Debug\ReadSearchInsert.exe.config
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\bin\Debug\ReadSearchInsert.exe
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\bin\Debug\ReadSearchInsert.pdb
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\bin\Debug\ReadSearchInsert.xml
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbprojResolveAssemblyReference.cache
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.FilmForm.resources
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.Resources.resources
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.NewCustomerForm.resources
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbproj.GenerateResource.Cache
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.vbproj.CoreCompileInputs.cache
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.exe
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.xml
+U:\BIS425\ReadSearchInsertDelete\ReadSearchInsert\obj\Debug\ReadSearchInsert.pdb

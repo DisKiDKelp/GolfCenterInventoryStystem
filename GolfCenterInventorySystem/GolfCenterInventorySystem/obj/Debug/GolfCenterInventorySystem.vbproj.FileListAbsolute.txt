@@ -1,0 +1,13 @@
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.ExistingCustomerForm.resources
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.CustomerForm.resources
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.Resources.resources
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.NewCustomerForm.resources
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.vbproj.GenerateResource.Cache
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.vbproj.CoreCompileInputs.cache
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\bin\Debug\GolfCenterInventorySystem.exe.config
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\bin\Debug\GolfCenterInventorySystem.exe
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\bin\Debug\GolfCenterInventorySystem.pdb
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\bin\Debug\GolfCenterInventorySystem.xml
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.exe
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.xml
+U:\BIS425\GolfCenterInventorySystem\GolfCenterInventorySystem\obj\Debug\GolfCenterInventorySystem.pdb

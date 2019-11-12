@@ -1,0 +1,12 @@
+U:\BIS425\My first\My first\bin\Debug\My first.exe.config
+U:\BIS425\My first\My first\bin\Debug\My first.exe
+U:\BIS425\My first\My first\bin\Debug\My first.pdb
+U:\BIS425\My first\My first\bin\Debug\My first.xml
+U:\BIS425\My first\My first\obj\Debug\My first.vbprojResolveAssemblyReference.cache
+U:\BIS425\My first\My first\obj\Debug\My_first.CustomerForm.resources
+U:\BIS425\My first\My first\obj\Debug\My_first.Resources.resources
+U:\BIS425\My first\My first\obj\Debug\My first.vbproj.GenerateResource.Cache
+U:\BIS425\My first\My first\obj\Debug\My first.vbproj.CoreCompileInputs.cache
+U:\BIS425\My first\My first\obj\Debug\My first.exe
+U:\BIS425\My first\My first\obj\Debug\My first.xml
+U:\BIS425\My first\My first\obj\Debug\My first.pdb
